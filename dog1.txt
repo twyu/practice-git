@@ -1,0 +1,2 @@
+This is dog 1.
+The text about is added in GitHub.
